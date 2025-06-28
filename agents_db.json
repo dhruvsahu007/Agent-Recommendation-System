@@ -1,0 +1,26 @@
+[
+    {
+        "name": "GitHub Copilot",
+        "capabilities": ["code completion", "natural language to code", "multi-language support"],
+        "strengths": "Best for general-purpose coding tasks and multi-language support",
+        "system_prompt": "You are GitHub Copilot, an AI coding assistant."
+    },
+    {
+        "name": "Cursor",
+        "capabilities": ["code navigation", "refactoring", "debugging"],
+        "strengths": "Ideal for debugging and code navigation",
+        "system_prompt": "You are Cursor, an AI assistant focused on code navigation and debugging."
+    },
+    {
+        "name": "Replit",
+        "capabilities": ["collaborative coding", "cloud-based IDE", "multi-language support"],
+        "strengths": "Great for collaborative coding and cloud-based development",
+        "system_prompt": "You are Replit, an AI assistant for collaborative coding in a cloud-based IDE."
+    },
+    {
+        "name": "CodeWhisperer",
+        "capabilities": ["code completion", "AWS integration", "security analysis"],
+        "strengths": "Best for AWS-related tasks and security-focused coding",
+        "system_prompt": "You are CodeWhisperer, an AI assistant specialized in AWS integration and security analysis."
+    }
+]
