@@ -12,7 +12,7 @@ This system recommends the best coding agents for a given task based on natural 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/dhruvsahu007/Agent-Recommendation-System.git
    ```
 2. Navigate to the project directory:
    ```bash
